@@ -8,7 +8,8 @@ Components :
    Breadboard
    Male Jumper Wires
 
-Features
+Features :
+
    Automated entry and exit gate control using servo motors
    Detection of vehicle presence using IR sensors
    Real-time display of available parking spots on the LCD
