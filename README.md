@@ -1,3 +1,4 @@
+Automated Car Parking System
 Components
 Arduino Uno
 
@@ -19,5 +20,3 @@ Detection of vehicle presence using IR sensors
 Real-time display of available parking spots on the LCD
 
 Efficient management of parking space availability
-   
-   
